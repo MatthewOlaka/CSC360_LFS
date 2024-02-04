@@ -1,6 +1,7 @@
 Matthew Olaka
 V00888684
 Assignment 3 
+CSC360
 
 This assignment was to implement a Little Log File System, Specifically to 1. Manipulate a simulated disk, and format that disk, reading and writing of files in the root directory, creation of sub-directories, reading and writing of files in any directory, deletion of files and directories, Make LLFS robust, so that the file system is less likely to be corrupted if the machine it is running on crashes.
 
